@@ -1,2 +1,2 @@
-# WCD--AI
+# WCD-AI
 Summer intern
